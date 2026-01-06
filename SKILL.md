@@ -103,7 +103,7 @@ curl -s -X POST "https://api.apicore.ai/v1/images/generations" \
 |-----|------|
 | `gemini-3-pro-image-preview` | 标准版 |
 | `gemini-3-pro-image-preview-2k` | 2K 高清 |
-| `gemini-3-pro-image-preview-4k` | 4K 超清（推荐） |
+| `gemini-3-pro-image-preview-4k` | 4K 超清（默认） |
 
 ### 下载图片
 
